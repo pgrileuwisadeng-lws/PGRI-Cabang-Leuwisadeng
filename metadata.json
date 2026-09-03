@@ -1,0 +1,6 @@
+{
+  "name": "PGRI Cabang Leuwisadeng",
+  "description": "Portal Resmi PGRI Cabang Leuwisadeng Kabupaten Bogor dengan Berita Terkini, Profil Pengurus & 9 Ranting, Panduan KTA Digital Nasional, Transparansi Laporan Keuangan Bulanan, Galeri Kegiatan, Aspirasi Guru, Notifikasi WhatsApp & Push, serta Dashboard Admin 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
